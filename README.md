@@ -1,0 +1,2 @@
+# SmartMedi
+School Project
