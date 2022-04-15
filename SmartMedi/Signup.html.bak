@@ -108,7 +108,7 @@
 			<div class="row">
 				<div class="col-lg-12 col-xs-12">
 					<div class="contact-block">
-						<form class="form-horizontal templatemo-signin-form" role="form" action="dashboard.html" method="get">
+						<form class="form-horizontal templatemo-signin-form" role="form" action="signupform.php" method="post">
 							<div class="row">
 								<div class="col-md-6">
 									<p>First Name</p>
